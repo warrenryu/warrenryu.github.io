@@ -18,7 +18,10 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
-
+comments :
+    provider : disqus
+    disqus :
+      short_name : ukuleletime
 
 # Site owner
 owner:
