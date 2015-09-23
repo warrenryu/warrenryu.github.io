@@ -5,11 +5,88 @@ comments: true
 categories: articles
 ---
 
-카찬차키스가 새롭게 그려낸 예수의 모습은 성경의 예수 만큼이나 복잡하고 다면적이어서 한 번에 포착이 잘 되지 않는다. 한가지 얘기할 수 있는게 있다면,  그가 그의 시대에 알맞은 예수의 이미지를 그려냈고, 그 모습의 핵심에는 '최후의 유혹'에 끝까지 유혹당하는 인간적인 측면의 예수가 있다. 인간적이기에, 그래서 그만큼 그 유혹이 절실하고 강렬하기에, 그 유혹에 대한 승리가 더욱 가슴을 먹먹하게 한다.
+##John Lennon (존 레논) - Imagine
 
->그 유혹 가운데에서 바랐던 일상의 삶이 다른 모든 인류에게 약속되기 위해서는 그는 그 유혹에 져서는 안되었던 것이다. 그래서 >누군가는 십자가에 매달려야 했고, 그래서 예수는 십자가에서 죽었고, 사흘 뒤에 부활함으로 약속의 이루어짐을 선포했다.
+Imagine there's no Heaven
+천국이 없는 곳을 상상해봐요
 
-**카찬차키스가 변하길 원했던 기독교의 모습은 무엇이었을까? 그는 그리스인이고 유럽인이었기에 우선적으로 그리스 정교회의 영향권이었을 것이고, 로마 카톨릭과 개신교 또한 그에게 영향을 주었겠다. 50년대 그리스와 유럽의 교회가 어떤 상황이었는지 잘 알지는 못하겠지만, 그가 이 작품을 통해 은연중 비치는 기독교의 모습은 박제된 기독교, 이 땅의 인간적 현실에 발 딛지 못한 껍데기 같은 모습의 기독교, 절차와 형식과 조직과 규례 가운데 질식하고 있는 기독교 인 듯하다.**
+It's easy if you try
+시도해보면 정말 쉬운 일이란 걸 알 수 있어요
 
-Interestingly, I had tried this before. However, the filepath I'd used in the mixin wasn't correct. You're code combined with what's below fixed it.
+No hell below us
+우리 아래에는 지옥이 없고
 
+Above us only sky
+우리 위에는 하늘만 존재하는 곳을요
+
+Imagine all the people
+모든 사람들이 오늘을 위해
+
+Living for today
+살아가는 곳을 상상해봐요
+
+Imagine there's no countries
+국가가 존재하지 않는 곳을 상상해봐요
+
+It isn't hard to do
+전혀 어렵지 않은 일이랍니다
+
+Nothing to kill or die for
+살인도 죽음도 없고
+
+No religion too
+종교도 없는 곳을요
+
+Imagine all the people
+모든 사람들이 평화 속에서
+
+Living life in peace
+살아가는 곳을 상상해봐요
+
+You -
+당신은 -
+
+You may say that I'm a dreamer
+당신은 제가 몽상가라 말하겠죠
+
+But I'm not the only one
+하지만 저만이 그런 것은 아니에요
+
+I hope someday you'll join us
+언젠가 당신도 우리와 함께했으면 좋겠어요
+And the world will be as one
+그리고 세계는 하나가 될테니까요
+
+Imagine no possessions
+소유물이 없는 곳을 상상해봐요
+
+I wonder if you can
+당신도 할 수 있을 거에요
+
+No need for greed or hunger
+탐욕도 굶주림도 없을거에요
+
+A brotherhood of man
+오직 인류애만이 남아있을 거에요
+
+Imagine all the people
+세계의 모든 사람들이 
+
+Sharing all the world
+양보하며 살아가는 곳을 상상해봐요
+
+Any You -
+그래도 당신은 -
+
+
+You may say that I'm a dreamer
+당신은 제가 몽상가라 말하겠죠
+
+But I'm not the only one
+하지만 저만이 그런 것은 아니에요
+
+I hope someday you'll join us
+언젠가 당신도 우리와 함께했으면 좋겠어요
+
+And the world will be as one
+그리고 세계는 하나가 될테니까요
