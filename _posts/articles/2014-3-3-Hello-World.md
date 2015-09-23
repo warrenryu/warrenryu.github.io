@@ -54,6 +54,7 @@ But I'm not the only one
 
 I hope someday you'll join us
 언젠가 당신도 우리와 함께했으면 좋겠어요
+
 And the world will be as one
 그리고 세계는 하나가 될테니까요
 
