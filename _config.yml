@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Ukulele Time
-description: hangul?
+description: "hangul?"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -21,7 +21,7 @@ gems:
 
 
 # Site owner
-owner: Warren Ryu
+owner:
   name: Warren Ryu
   email: Warren.Ryu@gmail.com
   twitter:
