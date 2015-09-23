@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Ukulele Time
-description: "hangul?"
+title: UKULELE TIME
+description: "가볍게 우쿨렐레를 즐기는 시간"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
@@ -28,7 +28,7 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: 
+  bio: "우쿨렐레 블로거"
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname: ukuleletime
 
