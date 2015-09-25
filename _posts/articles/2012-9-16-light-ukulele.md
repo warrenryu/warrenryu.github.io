@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: "UKULELE TALK - 가벼운 우쿨렐레"
 date: 2012-09-16
 categories: articles
