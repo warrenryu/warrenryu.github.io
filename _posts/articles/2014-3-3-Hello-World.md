@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 한글테스트~
-comment: true
+comments: true
 categories: articles
 ---
 
