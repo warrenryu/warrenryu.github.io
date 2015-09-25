@@ -9,8 +9,8 @@ image:
   feature: 
   teaser: 
   thumb:
-toc: true
-share: false
+toc: 
+share: 
 comments: true
 ---
 
