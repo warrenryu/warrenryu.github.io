@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Low “g” - Kimo Hussey"
+title: "Low G - Kimo Hussey"
 date: 2015-07-25
 categories: articles
 modified:
