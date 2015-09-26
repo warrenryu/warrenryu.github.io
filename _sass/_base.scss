@@ -77,13 +77,13 @@ blockquote {
   border-left: 6px solid $info-color;
   p {
     font-family: $alt-font;
+    line-height: 180%
     @include font-size(24);
   }
   cite {
     font-family: $base-font;
     font-weight: 700;
     font-style: normal;
-    line-height: 4px;
     @include font-size(18);
   }
 }
