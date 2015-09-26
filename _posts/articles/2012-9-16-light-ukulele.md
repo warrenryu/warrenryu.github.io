@@ -8,9 +8,9 @@ tags: [UKULELE]
 image:
   feature: 
   teaser: 
-  thumb:
 toc: 
 share: 
+ads: true
 comments: true
 ---
 
