@@ -4,9 +4,9 @@ title: "Low G - Kimo Hussey"
 date: 2015-07-25
 categories: articles
 modified:
-tags: [UKULELE] [CD] [Kimo Hussey]
+tags: [UKULELE]
 image:
-  feature: Low-G-Kimo-Hussey-feature.jpg
+  feature:
   teaser: 
 toc: 
 share: 
