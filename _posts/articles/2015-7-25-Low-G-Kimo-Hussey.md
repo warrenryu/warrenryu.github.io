@@ -10,6 +10,7 @@ image:
   teaser: 
 toc: 
 share: 
+ads: true
 comments: true
 ---
 
