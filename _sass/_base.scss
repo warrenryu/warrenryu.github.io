@@ -83,7 +83,7 @@ blockquote {
     font-family: $base-font;
     font-weight: 700;
     font-style: normal;
-    line-height: 180%;
+    line-height: 4px;
     @include font-size(18);
   }
 }
