@@ -8,7 +8,6 @@ tags: [UKULELE] [CD] [Kimo Hussey]
 image:
   feature: Low-G-Kimo-Hussey-feature.jpg
   teaser: 
-  thumb:
 toc: 
 share: 
 comments: true
