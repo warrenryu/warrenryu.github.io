@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: "Low G - Kimo Hussey"
 date: 2015-07-25
 categories: articles
