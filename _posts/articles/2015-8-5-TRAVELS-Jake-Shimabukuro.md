@@ -17,7 +17,7 @@ Jake Shimabukuro의 새 앨범이 발매가 되었습니다. 일본에서 7월 2
 
 일주일 전 앨범을 받았으나 휴가로 인해 이제야 소개해 드립니다.
 
-<img src="https://lh3.googleusercontent.com/-oBrzx9M_ehw/Vg1CLjBRNQI/AAAAAAAAAWc/oeGCwHraadU/s144-Ic42/JAKE_COVER_TRAVELS.jpg" />
+<img src="https://lh3.googleusercontent.com/-oBrzx9M_ehw/Vg1CLjBRNQI/AAAAAAAAAWc/oeGCwHraadU/s800-Ic42/JAKE_COVER_TRAVELS.jpg" />
 
 제가 제이크 앨범을 일본판으로 사는 이유를 적으면서 소개해 드리겠습니다.
 
