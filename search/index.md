@@ -2,7 +2,8 @@
 layout: article
 title: "SEARCH"
 excerpt: "검색할 단어를 입력해주세요."
-ads: true
+share: false
+ads: false
 ---
 <div id='cse' style='width: 100%;'>Loading</div>
 <script src='//www.google.com/jsapi' type='text/javascript'></script>
