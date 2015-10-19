@@ -7,7 +7,7 @@ modified:
 tags: [UKULELE, CD, Kimo Hussey]
 image:
   feature: Low-G-Kimo-Hussey-feature.jpg
-  teaser: 
+  teaser: https://lh3.googleusercontent.com/-0SFWcpCpyVE/ViSAUzi5L0I/AAAAAAAAAXc/zpmXwMXPZk8/s800-Ic42/teaser_kimo_low_g.gif
 toc: 
 share: 
 ads: true
