@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: "SEARCH"
 excerpt: "검색할 단어를 입력해주세요."
 share: false
