@@ -7,7 +7,7 @@ modified:
 tags: [UKULELE]
 image:
   feature: 
-  teaser: 
+  teaser: teaser_talk.jpg
 toc: 
 share: 
 ads: true
