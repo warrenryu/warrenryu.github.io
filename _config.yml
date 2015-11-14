@@ -2,7 +2,7 @@
 
 title: UKULELE TIME
 description: "가볍게 우쿨렐레를 즐기는 시간"
-logo: # 120x120 px default image used for Twitter summary card
+logo: logo.jpg
 teaser: teaser.jpg
 locale:
 url: http://ukuleletime.com
@@ -29,7 +29,7 @@ owner:
     ad-client: ca-pub-5023847408493502
     ad-slot: 5888689581
   bio: "우쿨렐레 블로거"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: bio-photo.jpg
 disqus-shortname: ukuleletime
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
