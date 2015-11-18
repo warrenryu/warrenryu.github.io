@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Uke Talk
+  url: /uketalk/
+  excerpt:
+  image:
+  
 - title: Reviews
   url: /reviews/
   excerpt:
