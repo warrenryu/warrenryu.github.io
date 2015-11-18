@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Travels - Jake Shimabukuro"
+title: "[CD]Travels - Jake Shimabukuro"
 date: 2015-08-05
-categories: articles
+categories: reviews
 modified: 
 tags: [UKULELE, CD, Jake Shimabukuro]
 image:
