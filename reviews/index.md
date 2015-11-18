@@ -1,13 +1,7 @@
 ---
 layout: archive
-title: "Reviews"
-date:
-modified:
-excerpt: 
-tags: []
-image:
-  feature:
-  teaser:
+permalink: /reviews/
+title: "리뷰"
 ---
 
 <div class="tiles">
