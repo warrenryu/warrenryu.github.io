@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Low G - Kimo Hussey"
+title: "[CD] Low G - Kimo Hussey"
 date: 2015-07-25
 categories: reviews
 modified: 
