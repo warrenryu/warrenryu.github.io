@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "[CD]Travels - Jake Shimabukuro"
+title: "[CD] Travels - Jake Shimabukuro"
 date: 2015-08-05
 categories: reviews
 modified: 
