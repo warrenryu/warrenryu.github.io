@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "[CD&Book]Polani-Daniel Ho"
+title: "[CD&Book] Polani-Daniel Ho"
 date: 2011-07-29
 categories: reviews
 modified: 
