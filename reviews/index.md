@@ -6,6 +6,6 @@ title: "리뷰"
 
 <div class="tiles">
 {% for post in site.categories.reviews %}
-  {% include post-grid.list %}
+  {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
