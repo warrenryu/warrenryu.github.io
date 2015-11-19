@@ -145,7 +145,7 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(12);  // modified from 9 because no ads.
+			@include span-columns(9);  // 광고 필요 없으면 12로 수정.
 		}
 	}
 	.page-title {
