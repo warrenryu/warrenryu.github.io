@@ -10,7 +10,7 @@ image:
   teaser: 
 toc: 
 share: 
-ads: true
+ads: 
 comments: true
 ---
 Jake Shimabukuro의 새 앨범이 발매가 되었습니다. 일본에서 7월 22일 선발매 하였으며 곧 미국에서도 발매가 됩니다.
