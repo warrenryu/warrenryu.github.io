@@ -1,13 +1,7 @@
 ---
 layout: archive
-title: "Uke Talk"
-date:
-modified:
-excerpt: 
-tags: []
-image:
-  feature:
-  teaser:
+permalink: /uketalk/
+title: "우쿨렐레 이야기"
 ---
 
 <div class="tiles">
