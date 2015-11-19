@@ -10,7 +10,7 @@ image:
   teaser: 
 toc: 
 share: 
-ads: true
+ads: 
 comments: true
 ---
 Daniel Ho의 감성을 느낄수 있는 앨범 Polani입니다.
