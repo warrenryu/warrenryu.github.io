@@ -10,7 +10,7 @@ image:
   teaser: teaser_talk.jpg
 toc: 
 share: 
-ads: true
+ads:
 comments: true
 ---
 
