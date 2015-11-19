@@ -10,7 +10,7 @@ image:
   teaser: teaser_kimo_low_g.jpg
 toc: 
 share: 
-ads: true
+ads: 
 comments: true
 ---
 
