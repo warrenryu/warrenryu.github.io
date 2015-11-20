@@ -8,7 +8,6 @@ tags: [UKULELE, CD, Polani, Daniel Ho]
 image:
   feature:
   teaser: 
-toc: 
 share: 
 ads: true
 comments: true
