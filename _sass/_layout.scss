@@ -145,7 +145,7 @@
 #main {
 	.inner-wrap {
 		@include media($medium) {
-			@include span-columns(9);  // if no use ads fix 12
+			@include span-columns(9);  // ads 사용 안하면 fix 12
 		}
 	}
 	.page-title {
