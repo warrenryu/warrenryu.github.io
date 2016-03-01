@@ -24,7 +24,7 @@ Daniel Ho의 감성을 느낄수 있는 앨범 Polani입니다.
 
 이미 많은 우쿨렐레 모임에서 Low G 튜닝 연습용 최고의 악보로 소문나 있습니다.
 
-##수록곡 리스트##
+## 수록곡 리스트 ##
 1. Pala'ela'e (Bright as Sun) 3:23
 2. Ho'okahi (In Solitude) 3:29
 3. Ahe Lau Makani 2:42
