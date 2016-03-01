@@ -14,13 +14,13 @@ comments: true
 ---
 Daniel Ho의 감성을 느낄수 있는 앨범 Polani입니다.
 
-<img src="https://lh3.googleusercontent.com/-2wk0XwnCHao/VkyiWWxRv0I/AAAAAAAAAYM/yO6AzPI0-Tc/s800-Ic42/polani_1.jpg" />
+<img src="https://farm2.staticflickr.com/1635/25405728335_ec1224d912_b.jpg" />
 
 잔잔함이 느껴지는 곡들로 가득 채워진 앨범입니다.
 
 함께 발매 된 악보는 음원의 곡을 그대로 옮겼으며, Fingerstyle 'Ukulele 라고 써있는 것처럼 우쿨렐레 한대로 연주한 곡으로 구성되어있습니다. TAB와 함께 되어있으며, Low G 튜닝입니다.
 
-<img src="https://lh3.googleusercontent.com/-tV0_NekpnYk/VkyiWUU5MKI/AAAAAAAAAYI/V4KzAdSrz8Y/s800-Ic42/polani_2.jpg" />
+<img src="https://farm2.staticflickr.com/1657/25287422502_9a9cfd1242_b.jpg" />
 
 이미 많은 우쿨렐레 모임에서 Low G 튜닝 연습용 최고의 악보로 소문나 있습니다.
 
